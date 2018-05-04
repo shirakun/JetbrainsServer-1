@@ -1,0 +1,64 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+/usercenter-biz/src/test/java/com/wwwarehouse/xdw/usercenter/Demo.java
+/javadocs/
+/usercenter-biz/src/test/java/com/wwwarehouse/xdw/usercenter/service/impl/AddUserPersonTest.java
+sercenter-dao/target/classes/com/wwwarehouse/xdw/usercenter/dao/mapper/SyMessagePackItemDOMapper.xml
+
+usercenter-common/target/
+usercenter-web/target/
+disconf/
+/usercenter-biz/src/test/resources/log4j2-test.xml.bak
+usercenter-biz/target/
+usercenter-dao/target/
+/usercenter-biz/disconf/
+/usercenter-biz/src/test/java/com/wwwarehouse/xdw/usercenter/mockitodemo/
+disconf/
+usercenter-biz/src/test/java/com/wwwarehouse/xdw/usercenter/mockitodemo/
+usercenter-biz/target/
+
+usercenter-biz/target/test-classes/service-config.properties
+usercenter-biz/target/test-classes/service-config.properties.lock
+usercenter-biz/target/test-classes/uc-jdbc.properties
+usercenter-biz/target/test-classes/uc-jdbc.properties.lock
+usercenter-common/target/generated-sources/
+usercenter-common/target/maven-status/
+usercenter-dao/target/
+
+usercenter-dao/target/cl
+asses/com/wwwarehouse/xdw/usercenter/dao/mapper/RuBusinessInviteLogDOMapper.xml
+
+usercenter-web/target/
+
