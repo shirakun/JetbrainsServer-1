@@ -20,6 +20,12 @@ If you do not want to build a server, you can use the following server activatio
 
 > http://idea.itbat.cn
 
+##### firewall
+
+iptables -I INPUT -m state —state NEW -m tcp -p tcp —dport 1018 -j ACCEPT
+
+iptables -I INPUT -m state —state NEW -m udp -p udp —dport 1018 -j ACCEPT
+
 ---
 
 The following hardware platforms and operating systems are supported. More  hardware platforms and operating systems are coming.
