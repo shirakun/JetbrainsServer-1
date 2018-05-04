@@ -13,7 +13,12 @@ It is a Shell Script which can build a JetBrains Server automatically.
 wget --no-check-certificate -O jetbrains.sh https://raw.githubusercontent.com/yushangcl/JetbrainsServer/master/install.sh && chmod +x install.sh && bash install.sh
 ```
 
-**License server http://ip:1017**
+ **License server http://ip:1017**
+
+
+If you do not want to build a server, you can use the following server activation
+
+> http://idea.itbat.cn
 
 ---
 
