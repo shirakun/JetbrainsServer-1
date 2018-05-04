@@ -10,7 +10,7 @@ It is a Shell Script which can build a JetBrains Server automatically.
 `HOW TO USE`
 
 ```
-wget --no-check-certificate -O jetbrains.sh https://raw.githubusercontent.com/yushangcl/JetbrainsServer/master/install.sh && chmod +x install.sh && bash install.sh
+wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/yushangcl/JetbrainsServer/master/install.sh && chmod +x install.sh && bash install.sh
 ```
 
  **License server http://ip:1017**
